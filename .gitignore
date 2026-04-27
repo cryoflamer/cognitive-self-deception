@@ -8,3 +8,4 @@
 *.pdf
 *.synctex.gz
 .DS_Store
+/chatgpt-packs
